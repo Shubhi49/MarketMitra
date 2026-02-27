@@ -2,7 +2,7 @@
 
 *Tech Stack:* MERN (MongoDB, Express.js, React, Node.js) & Next.js  
 *Deployed On:* AWS Lambda and AWS S3  
-*GitHub Repository:* https://github.com/Vishal2970/E-Commerce-Fullstack  
+*GitHub Repository:* https://github.com/Shubhi49/MarketMitra  
 
 ## Project Overview  
 This project is a full-stack e-commerce platform designed to provide a seamless shopping experience. Built using modern web development technologies, the application offers a robust backend, a dynamic user interface, secure authentication, and flexible payment options.  
@@ -36,7 +36,7 @@ This project is a full-stack e-commerce platform designed to provide a seamless 
 
 1. *Clone the Repository:*  
    bash
-   git clone https://github.com/Vishal2970/E-Commerce-Fullstack.git
+   git clone https://github.com/Shubhi49/MarketMitra.git
    cd E-Commerce-Fullstack
    
 
@@ -77,10 +77,9 @@ The application is deployed using:
 
 ## Contact  
 For any queries or contributions, feel free to reach out:  
-*Vishal Agrahari*  
-- https://github.com/Vishal2970  
-- https://linkedin.com/in/vishal2970/  
-- Email: [v.ag7570@gmail.com](mailto:v.ag7570@gmail.com)
+*Shubhi Srivastava*  
+- https://github.com/Shubhi49  
+- Email: [shubhisrivastava242@gmail.com](mailto:shubhisrivastava242@gmail.com)
 
 
 ![E-Com 1](https://user-images.githubusercontent.com/96405876/236608972-78bc3e7d-68d2-4113-8b46-ce7838c99493.png)
